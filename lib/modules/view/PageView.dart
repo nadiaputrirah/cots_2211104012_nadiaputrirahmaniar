@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:cots_2211104012_nadiaputrirahmaniar/modules/controller/PageController.dart';
-import 'package:cots_2211104012_nadiaputrirahmaniar/design_system/widget/navbar/onboardingnavbar.dart';
+import 'package:cots_2211104012_nadiaputrirahmaniar/design_system/widget/onboardingnavbar.dart';
 import 'package:cots_2211104012_nadiaputrirahmaniar/design_system/styles/color.dart';
 import 'package:get/get.dart';
 import 'package:cots_2211104012_nadiaputrirahmaniar/modules/routes/app_routes.dart';

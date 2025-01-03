@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart'; // Import GetX
+import 'package:get/get.dart';
 import 'package:cots_2211104012_nadiaputrirahmaniar/modules/routes/app_routes.dart';
 
 void main() {
